@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Raghavpatil10/Raghavpatil10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./neofetch-raghav.svg" alt="Raghav Patil – profile card" width="100%" />
 
-Here are some ideas to get you started:
+# Hi, I'm Raghav Patil 👋
+**Data Science & AI Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 🧰 Tech Stack
+
+| Category | Tools |
+|---|---|
+| **Languages** | Python, Java, SQL |
+| **Backend** | FastAPI, Flask |
+| **Frontend** | React, Next.js |
+| **Database** | MySQL |
+| **Tools** | Docker, AWS, Redis |
+
+## 📫 Connect with me
+
+<p>
+  <a href="mailto:raghavwork556@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://x.com/RaghavP47376721"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/raghavpatil18/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://codolio.com/profile/Raghavpatil10"><img src="https://img.shields.io/badge/Codolio-FF6B35?style=for-the-badge&logoColor=white" alt="Codolio" /></a>
+</p>
